@@ -42,3 +42,8 @@ Assets for this game created veryt talented graphics [Petr Drahoš](http://www.p
 * **Take a look on my other games** - [itch.io](https://jame581.itch.io/)
 
 ## Screenshots
+![collect](https://github.com/jame581/RoMW/assets/21112138/d3d4a280-1fc4-424e-9b86-1be68e833869)
+![attention](https://github.com/jame581/RoMW/assets/21112138/d1f60fcb-cde4-4cca-bae5-11e7a035377c)
+![upgrades](https://github.com/jame581/RoMW/assets/21112138/8691ac6f-7b3f-4ee3-9a55-569a4534acbe)
+![main_menu](https://github.com/jame581/RoMW/assets/21112138/23a5982a-78c3-4359-bf01-4f90290bf383)
+![gameplay](https://github.com/jame581/RoMW/assets/21112138/72e53365-f348-4ee4-a3e2-dc02c6ec173d)
